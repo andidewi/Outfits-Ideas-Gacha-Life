@@ -1,0 +1,3531 @@
+{
+  "Ads": [
+    {
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "",
+      "admob_nativeid": "",
+      "admob_openid": "",
+      "admob_rewardid": "", 
+      "interval": 1,
+      "coin_reward": 0
+    }
+  ],
+  "More":
+  [
+	{
+      "title":"Batako",
+      "image":"https://play-lh.googleusercontent.com/eaYAxU40wSmnDK6olUEVJqBXjUc-cm8dlJm643FI4-KBZkb4Nv8eJD4oUHEycEDufBc=w512-h512-n-rw",
+      "link":"https://play.google.com/store/apps/dev?id=9196323541166403650"
+    }
+  ],
+"Categories": [
+    {
+      "name_category": "Batako",
+      "image": "#"
+    }
+  ],
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Batako",
+      "title":"1",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/1.webp",
+      "coin":1000
+    },
+    {
+      "id": 2,
+      "name_category": "Batako",
+      "title": "2",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/2.webp",
+      "coin":1000
+    },
+    {
+      "id":3,
+      "name_category": "Batako",
+      "title":"3",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/3.webp",
+      "coin":1000
+    },
+    {
+      "id":4,
+      "name_category": "Batako",
+      "title":"4",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/4.webp",
+      "coin":1000
+    },
+    {
+      "id":5,
+      "name_category": "Batako",
+      "title":"5",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/5.webp",
+      "coin":1000
+    },
+    {
+      "id":6,
+      "name_category": "Batako",
+      "title":"6",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/6.webp",
+      "coin":1000
+    },
+    {
+      "id":7,
+      "name_category": "Batako",
+      "title":"7",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/7.webp",
+      "coin":1000
+    },
+    {
+      "id":8,
+      "name_category": "Batako",
+      "title":"8",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/8.webp",
+      "coin":1000
+    },
+    {
+      "id":9,
+      "name_category": "Batako",
+      "title":"9",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/9.webp",
+      "coin":1000
+    },
+    {
+      "id":10,
+      "name_category": "Batako",
+      "title":"10",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/10.webp",
+      "coin":1000
+    },
+    {
+      "id": 11,
+      "name_category": "Batako",
+      "title": "11",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/11.webp",
+      "coin":1000
+    },
+    {
+      "id":12,
+      "name_category": "Batako",
+      "title":"12",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/12.webp",
+      "coin":1000
+    },
+    {
+      "id":13,
+      "name_category": "Batako",
+      "title":"13",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/13.webp",
+      "coin":1000
+    },
+    {
+      "id":14,
+      "name_category": "Batako",
+      "title":"14",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/14.webp",
+      "coin":1000
+    },
+    {
+      "id":15,
+      "name_category": "Batako",
+      "title":"15",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/15.webp",
+      "coin":1000
+    },
+    {
+      "id":16,
+      "name_category": "Batako",
+      "title":"16",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/16.webp",
+      "coin":1000
+    },
+    {
+      "id":17,
+      "name_category": "Batako",
+      "title":"17",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/17.webp",
+      "coin":1000
+    },
+    {
+      "id":18,
+      "name_category": "Batako",
+      "title":"18",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/18.webp",
+      "coin":1000
+    },
+    {
+      "id":19,
+      "name_category": "Batako",
+      "title":"19",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/19.webp",
+      "coin":1000
+    },
+    {
+      "id":20,
+      "name_category": "Batako",
+      "title":"20",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/20.webp",
+      "coin":1000
+    },
+    {
+      "id": 21,
+      "name_category": "Batako",
+      "title": "21",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/21.webp",
+      "coin":1000
+    },
+    {
+      "id":22,
+      "name_category": "Batako",
+      "title":"22",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/22.webp",
+      "coin":1000
+    },
+    {
+      "id":23,
+      "name_category": "Batako",
+      "title":"23",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/23.webp",
+      "coin":1000
+    },
+    {
+      "id":24,
+      "name_category": "Batako",
+      "title":"24",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/24.webp",
+      "coin":1000
+    },
+    {
+      "id":25,
+      "name_category": "Batako",
+      "title":"25",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/25.webp",
+      "coin":1000
+    },
+    {
+      "id":26,
+      "name_category": "Batako",
+      "title":"26",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/26.webp",
+      "coin":1000
+    },
+    {
+      "id":27,
+      "name_category": "Batako",
+      "title":"27",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/27.webp",
+      "coin":1000
+    },
+    {
+      "id":28,
+      "name_category": "Batako",
+      "title":"28",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/28.webp",
+      "coin":1000
+    },
+    {
+      "id":29,
+      "name_category": "Batako",
+      "title":"29",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/29.webp",
+      "coin":1000
+    },
+    {
+      "id":30,
+      "name_category": "Batako",
+      "title":"30",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/30.webp",
+      "coin":1000
+    },
+    {
+      "id": 31,
+      "name_category": "Batako",
+      "title": "31",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/31.webp",
+      "coin":1000
+    },
+    {
+      "id":32,
+      "name_category": "Batako",
+      "title":"32",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/32.webp",
+      "coin":1000
+    },
+    {
+      "id":33,
+      "name_category": "Batako",
+      "title":"33",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/33.webp",
+      "coin":1000
+    },
+    {
+      "id":34,
+      "name_category": "Batako",
+      "title":"34",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/34.webp",
+      "coin":1000
+    },
+    {
+      "id":35,
+      "name_category": "Batako",
+      "title":"35",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/35.webp",
+      "coin":1000
+    },
+    {
+      "id":36,
+      "name_category": "Batako",
+      "title":"36",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/36.webp",
+      "coin":1000
+    },
+    {
+      "id":37,
+      "name_category": "Batako",
+      "title":"37",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/37.webp",
+      "coin":1000
+    },
+    {
+      "id":38,
+      "name_category": "Batako",
+      "title":"38",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/38.webp",
+      "coin":1000
+    },
+    {
+      "id":39,
+      "name_category": "Batako",
+      "title":"39",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/39.webp",
+      "coin":1000
+    },
+    {
+      "id":40,
+      "name_category": "Batako",
+      "title":"40",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/40.webp",
+      "coin":1000
+    },
+    {
+      "id": 41,
+      "name_category": "Batako",
+      "title": "41",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/41.webp",
+      "coin":1000
+    },
+    {
+      "id":42,
+      "name_category": "Batako",
+      "title":"42",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/42.webp",
+      "coin":1000
+    },
+    {
+      "id":43,
+      "name_category": "Batako",
+      "title":"43",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/43.webp",
+      "coin":1000
+    },
+    {
+      "id":44,
+      "name_category": "Batako",
+      "title":"44",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/44.webp",
+      "coin":1000
+    },
+    {
+      "id":45,
+      "name_category": "Batako",
+      "title":"45",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/45.webp",
+      "coin":1000
+    },
+    {
+      "id":46,
+      "name_category": "Batako",
+      "title":"46",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/46.webp",
+      "coin":1000
+    },
+    {
+      "id":47,
+      "name_category": "Batako",
+      "title":"47",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/47.webp",
+      "coin":1000
+    },
+    {
+      "id":48,
+      "name_category": "Batako",
+      "title":"48",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/48.webp",
+      "coin":1000
+    },
+    {
+      "id":49,
+      "name_category": "Batako",
+      "title":"49",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/49.webp",
+      "coin":1000
+    },
+    {
+      "id":50,
+      "name_category": "Batako",
+      "title":"50",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/50.webp",
+      "coin":1000
+    },
+    {
+      "id": 51,
+      "name_category": "Batako",
+      "title": "51",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/51.webp",
+      "coin":1000
+    },
+    {
+      "id":52,
+      "name_category": "Batako",
+      "title":"52",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/52.webp",
+      "coin":1000
+    },
+    {
+      "id":53,
+      "name_category": "Batako",
+      "title":"53",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/53.webp",
+      "coin":1000
+    },
+    {
+      "id":54,
+      "name_category": "Batako",
+      "title":"54",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/54.webp",
+      "coin":1000
+    },
+    {
+      "id":55,
+      "name_category": "Batako",
+      "title":"55",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/55.webp",
+      "coin":1000
+    },
+    {
+      "id":56,
+      "name_category": "Batako",
+      "title":"56",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/56.webp",
+      "coin":1000
+    },
+    {
+      "id":57,
+      "name_category": "Batako",
+      "title":"57",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/57.webp",
+      "coin":1000
+    },
+    {
+      "id":58,
+      "name_category": "Batako",
+      "title":"58",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/58.webp",
+      "coin":1000
+    },
+    {
+      "id":59,
+      "name_category": "Batako",
+      "title":"59",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/59.webp",
+      "coin":1000
+    },
+    {
+      "id":60,
+      "name_category": "Batako",
+      "title":"60",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/60.webp",
+      "coin":1000
+    },
+    {
+      "id": 61,
+      "name_category": "Batako",
+      "title": "61",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/61.webp",
+      "coin":1000
+    },
+    {
+      "id":62,
+      "name_category": "Batako",
+      "title":"62",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/62.webp",
+      "coin":1000
+    },
+    {
+      "id":63,
+      "name_category": "Batako",
+      "title":"63",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/63.webp",
+      "coin":1000
+    },
+    {
+      "id":64,
+      "name_category": "Batako",
+      "title":"64",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/64.webp",
+      "coin":1000
+    },
+    {
+      "id":65,
+      "name_category": "Batako",
+      "title":"65",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/65.webp",
+      "coin":1000
+    },
+    {
+      "id":66,
+      "name_category": "Batako",
+      "title":"66",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/66.webp",
+      "coin":1000
+    },
+    {
+      "id":67,
+      "name_category": "Batako",
+      "title":"67",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/67.webp",
+      "coin":1000
+    },
+    {
+      "id":68,
+      "name_category": "Batako",
+      "title":"68",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/68.webp",
+      "coin":1000
+    },
+    {
+      "id":69,
+      "name_category": "Batako",
+      "title":"69",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/69.webp",
+      "coin":1000
+    },
+    {
+      "id":70,
+      "name_category": "Batako",
+      "title":"70",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/70.webp",
+      "coin":1000
+    },
+    {
+      "id": 71,
+      "name_category": "Batako",
+      "title": "71",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/71.webp",
+      "coin":1000
+    },
+    {
+      "id":72,
+      "name_category": "Batako",
+      "title":"72",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/72.webp",
+      "coin":1000
+    },
+    {
+      "id":73,
+      "name_category": "Batako",
+      "title":"73",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/73.webp",
+      "coin":1000
+    },
+    {
+      "id":74,
+      "name_category": "Batako",
+      "title":"74",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/74.webp",
+      "coin":1000
+    },
+    {
+      "id":75,
+      "name_category": "Batako",
+      "title":"75",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/75.webp",
+      "coin":1000
+    },
+    {
+      "id":76,
+      "name_category": "Batako",
+      "title":"76",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/76.webp",
+      "coin":1000
+    },
+    {
+      "id":77,
+      "name_category": "Batako",
+      "title":"77",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/77.webp",
+      "coin":1000
+    },
+    {
+      "id":78,
+      "name_category": "Batako",
+      "title":"78",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/78.webp",
+      "coin":1000
+    },
+    {
+      "id":79,
+      "name_category": "Batako",
+      "title":"79",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/79.webp",
+      "coin":1000
+    },
+    {
+      "id":80,
+      "name_category": "Batako",
+      "title":"80",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/80.webp",
+      "coin":1000
+    },
+    {
+      "id": 81,
+      "name_category": "Batako",
+      "title": "81",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/81.webp",
+      "coin":1000
+    },
+    {
+      "id":82,
+      "name_category": "Batako",
+      "title":"82",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/82.webp",
+      "coin":1000
+    },
+    {
+      "id":83,
+      "name_category": "Batako",
+      "title":"83",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/83.webp",
+      "coin":1000
+    },
+    {
+      "id":84,
+      "name_category": "Batako",
+      "title":"84",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/84.webp",
+      "coin":1000
+    },
+    {
+      "id":85,
+      "name_category": "Batako",
+      "title":"85",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/85.webp",
+      "coin":1000
+    },
+    {
+      "id":86,
+      "name_category": "Batako",
+      "title":"86",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/86.webp",
+      "coin":1000
+    },
+    {
+      "id":87,
+      "name_category": "Batako",
+      "title":"87",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/87.webp",
+      "coin":1000
+    },
+    {
+      "id":88,
+      "name_category": "Batako",
+      "title":"88",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/88.webp",
+      "coin":1000
+    },
+    {
+      "id":89,
+      "name_category": "Batako",
+      "title":"89",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/89.webp",
+      "coin":1000
+    },
+    {
+      "id":90,
+      "name_category": "Batako",
+      "title":"90",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/90.webp",
+      "coin":1000
+    },
+    {
+      "id": 91,
+      "name_category": "Batako",
+      "title": "91",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/91.webp",
+      "coin":1000
+    },
+    {
+      "id":92,
+      "name_category": "Batako",
+      "title":"92",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/92.webp",
+      "coin":1000
+    },
+    {
+      "id":93,
+      "name_category": "Batako",
+      "title":"93",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/93.webp",
+      "coin":1000
+    },
+    {
+      "id":94,
+      "name_category": "Batako",
+      "title":"94",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/94.webp",
+      "coin":1000
+    },
+    {
+      "id":95,
+      "name_category": "Batako",
+      "title":"95",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/95.webp",
+      "coin":1000
+    },
+    {
+      "id":96,
+      "name_category": "Batako",
+      "title":"96",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/96.webp",
+      "coin":1000
+    },
+    {
+      "id":97,
+      "name_category": "Batako",
+      "title":"97",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/97.webp",
+      "coin":1000
+    },
+    {
+      "id":98,
+      "name_category": "Batako",
+      "title":"98",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/98.webp",
+      "coin":1000
+    },
+    {
+      "id":99,
+      "name_category": "Batako",
+      "title":"99",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/99.webp",
+      "coin":1000
+    },
+    {
+      "id":100,
+      "name_category": "Batako",
+      "title":"100",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/100.webp",
+      "coin":1000
+    },
+    {
+      "id": 101,
+      "name_category": "Batako",
+      "title": "101",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/101.webp",
+      "coin":1000
+    },
+    {
+      "id":102,
+      "name_category": "Batako",
+      "title":"102",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/102.webp",
+      "coin":1000
+    },
+    {
+      "id":103,
+      "name_category": "Batako",
+      "title":"103",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/103.webp",
+      "coin":1000
+    },
+    {
+      "id":104,
+      "name_category": "Batako",
+      "title":"104",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/104.webp",
+      "coin":1000
+    },
+    {
+      "id":105,
+      "name_category": "Batako",
+      "title":"105",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/105.webp",
+      "coin":1000
+    },
+    {
+      "id":106,
+      "name_category": "Batako",
+      "title":"106",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/106.webp",
+      "coin":1000
+    },
+    {
+      "id":107,
+      "name_category": "Batako",
+      "title":"107",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/107.webp",
+      "coin":1000
+    },
+    {
+      "id":108,
+      "name_category": "Batako",
+      "title":"108",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/108.webp",
+      "coin":1000
+    },
+    {
+      "id":109,
+      "name_category": "Batako",
+      "title":"109",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/109.webp",
+      "coin":1000
+    },
+    {
+      "id":110,
+      "name_category": "Batako",
+      "title":"110",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/110.webp",
+      "coin":1000
+    },
+    {
+      "id": 111,
+      "name_category": "Batako",
+      "title": "111",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/111.webp",
+      "coin":1000
+    },
+    {
+      "id":112,
+      "name_category": "Batako",
+      "title":"112",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/112.webp",
+      "coin":1000
+    },
+    {
+      "id":113,
+      "name_category": "Batako",
+      "title":"113",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/113.webp",
+      "coin":1000
+    },
+    {
+      "id":114,
+      "name_category": "Batako",
+      "title":"114",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/114.webp",
+      "coin":1000
+    },
+    {
+      "id":115,
+      "name_category": "Batako",
+      "title":"115",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/115.webp",
+      "coin":1000
+    },
+    {
+      "id":116,
+      "name_category": "Batako",
+      "title":"116",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/116.webp",
+      "coin":1000
+    },
+    {
+      "id":117,
+      "name_category": "Batako",
+      "title":"117",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/117.webp",
+      "coin":1000
+    },
+    {
+      "id":118,
+      "name_category": "Batako",
+      "title":"118",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/118.webp",
+      "coin":1000
+    },
+    {
+      "id":119,
+      "name_category": "Batako",
+      "title":"119",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/119.webp",
+      "coin":1000
+    },
+    {
+      "id":120,
+      "name_category": "Batako",
+      "title":"120",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/120.webp",
+      "coin":1000
+    },
+    {
+      "id": 121,
+      "name_category": "Batako",
+      "title": "121",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/121.webp",
+      "coin":1000
+    },
+    {
+      "id":122,
+      "name_category": "Batako",
+      "title":"122",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/122.webp",
+      "coin":1000
+    },
+    {
+      "id":123,
+      "name_category": "Batako",
+      "title":"123",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/123.webp",
+      "coin":1000
+    },
+    {
+      "id":124,
+      "name_category": "Batako",
+      "title":"124",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/124.webp",
+      "coin":1000
+    },
+    {
+      "id":125,
+      "name_category": "Batako",
+      "title":"125",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/125.webp",
+      "coin":1000
+    },
+    {
+      "id":126,
+      "name_category": "Batako",
+      "title":"126",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/126.webp",
+      "coin":1000
+    },
+    {
+      "id":127,
+      "name_category": "Batako",
+      "title":"127",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/127.webp",
+      "coin":1000
+    },
+    {
+      "id":128,
+      "name_category": "Batako",
+      "title":"128",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/128.webp",
+      "coin":1000
+    },
+    {
+      "id":129,
+      "name_category": "Batako",
+      "title":"129",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/129.webp",
+      "coin":1000
+    },
+    {
+      "id":130,
+      "name_category": "Batako",
+      "title":"130",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/130.webp",
+      "coin":1000
+    },
+    {
+      "id": 131,
+      "name_category": "Batako",
+      "title": "131",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/131.webp",
+      "coin":1000
+    },
+    {
+      "id":132,
+      "name_category": "Batako",
+      "title":"132",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/132.webp",
+      "coin":1000
+    },
+    {
+      "id":133,
+      "name_category": "Batako",
+      "title":"133",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/133.webp",
+      "coin":1000
+    },
+    {
+      "id":134,
+      "name_category": "Batako",
+      "title":"134",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/134.webp",
+      "coin":1000
+    },
+    {
+      "id":135,
+      "name_category": "Batako",
+      "title":"135",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/135.webp",
+      "coin":1000
+    },
+    {
+      "id":136,
+      "name_category": "Batako",
+      "title":"136",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/136.webp",
+      "coin":1000
+    },
+    {
+      "id":137,
+      "name_category": "Batako",
+      "title":"137",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/137.webp",
+      "coin":1000
+    },
+    {
+      "id":138,
+      "name_category": "Batako",
+      "title":"138",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/138.webp",
+      "coin":1000
+    },
+    {
+      "id":139,
+      "name_category": "Batako",
+      "title":"139",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/139.webp",
+      "coin":1000
+    },
+    {
+      "id":140,
+      "name_category": "Batako",
+      "title":"140",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/140.webp",
+      "coin":1000
+    },
+    {
+      "id": 141,
+      "name_category": "Batako",
+      "title": "141",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/141.webp",
+      "coin":1000
+    },
+    {
+      "id":142,
+      "name_category": "Batako",
+      "title":"142",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/142.webp",
+      "coin":1000
+    },
+    {
+      "id":143,
+      "name_category": "Batako",
+      "title":"143",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/143.webp",
+      "coin":1000
+    },
+    {
+      "id":144,
+      "name_category": "Batako",
+      "title":"144",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/144.webp",
+      "coin":1000
+    },
+    {
+      "id":145,
+      "name_category": "Batako",
+      "title":"145",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/145.webp",
+      "coin":1000
+    },
+    {
+      "id":146,
+      "name_category": "Batako",
+      "title":"146",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/146.webp",
+      "coin":1000
+    },
+    {
+      "id":147,
+      "name_category": "Batako",
+      "title":"147",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/147.webp",
+      "coin":1000
+    },
+    {
+      "id":148,
+      "name_category": "Batako",
+      "title":"148",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/148.webp",
+      "coin":1000
+    },
+    {
+      "id":149,
+      "name_category": "Batako",
+      "title":"149",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/149.webp",
+      "coin":1000
+    },
+    {
+      "id":150,
+      "name_category": "Batako",
+      "title":"150",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/150.webp",
+      "coin":1000
+    },
+    {
+      "id": 151,
+      "name_category": "Batako",
+      "title": "151",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/151.webp",
+      "coin":1000
+    },
+    {
+      "id":152,
+      "name_category": "Batako",
+      "title":"152",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/152.webp",
+      "coin":1000
+    },
+    {
+      "id":153,
+      "name_category": "Batako",
+      "title":"153",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/153.webp",
+      "coin":1000
+    },
+    {
+      "id":154,
+      "name_category": "Batako",
+      "title":"154",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/154.webp",
+      "coin":1000
+    },
+    {
+      "id":155,
+      "name_category": "Batako",
+      "title":"155",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/155.webp",
+      "coin":1000
+    },
+    {
+      "id":156,
+      "name_category": "Batako",
+      "title":"156",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/156.webp",
+      "coin":1000
+    },
+    {
+      "id":157,
+      "name_category": "Batako",
+      "title":"157",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/157.webp",
+      "coin":1000
+    },
+    {
+      "id":158,
+      "name_category": "Batako",
+      "title":"158",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/158.webp",
+      "coin":1000
+    },
+    {
+      "id":159,
+      "name_category": "Batako",
+      "title":"159",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/159.webp",
+      "coin":1000
+    },
+    {
+      "id":160,
+      "name_category": "Batako",
+      "title":"160",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/160.webp",
+      "coin":1000
+    },
+    {
+      "id": 161,
+      "name_category": "Batako",
+      "title": "161",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/161.webp",
+      "coin":1000
+    },
+    {
+      "id":162,
+      "name_category": "Batako",
+      "title":"162",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/162.webp",
+      "coin":1000
+    },
+    {
+      "id":163,
+      "name_category": "Batako",
+      "title":"163",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/163.webp",
+      "coin":1000
+    },
+    {
+      "id":164,
+      "name_category": "Batako",
+      "title":"164",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/164.webp",
+      "coin":1000
+    },
+    {
+      "id":165,
+      "name_category": "Batako",
+      "title":"165",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/165.webp",
+      "coin":1000
+    },
+    {
+      "id":166,
+      "name_category": "Batako",
+      "title":"166",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/166.webp",
+      "coin":1000
+    },
+    {
+      "id":167,
+      "name_category": "Batako",
+      "title":"167",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/167.webp",
+      "coin":1000
+    },
+    {
+      "id":168,
+      "name_category": "Batako",
+      "title":"168",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/168.webp",
+      "coin":1000
+    },
+    {
+      "id":169,
+      "name_category": "Batako",
+      "title":"169",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/169.webp",
+      "coin":1000
+    },
+    {
+      "id":170,
+      "name_category": "Batako",
+      "title":"170",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/170.webp",
+      "coin":1000
+    },
+    {
+      "id": 171,
+      "name_category": "Batako",
+      "title": "171",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/171.webp",
+      "coin":1000
+    },
+    {
+      "id":172,
+      "name_category": "Batako",
+      "title":"172",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/172.webp",
+      "coin":1000
+    },
+    {
+      "id":173,
+      "name_category": "Batako",
+      "title":"173",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/173.webp",
+      "coin":1000
+    },
+    {
+      "id":174,
+      "name_category": "Batako",
+      "title":"174",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/174.webp",
+      "coin":1000
+    },
+    {
+      "id":175,
+      "name_category": "Batako",
+      "title":"175",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/175.webp",
+      "coin":1000
+    },
+    {
+      "id":176,
+      "name_category": "Batako",
+      "title":"176",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/176.webp",
+      "coin":1000
+    },
+    {
+      "id":177,
+      "name_category": "Batako",
+      "title":"177",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/177.webp",
+      "coin":1000
+    },
+    {
+      "id":178,
+      "name_category": "Batako",
+      "title":"178",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/178.webp",
+      "coin":1000
+    },
+    {
+      "id":179,
+      "name_category": "Batako",
+      "title":"179",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/179.webp",
+      "coin":1000
+    },
+    {
+      "id":180,
+      "name_category": "Batako",
+      "title":"180",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/180.webp",
+      "coin":1000
+    },
+    {
+      "id": 181,
+      "name_category": "Batako",
+      "title": "181",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/181.webp",
+      "coin":1000
+    },
+    {
+      "id":182,
+      "name_category": "Batako",
+      "title":"182",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/182.webp",
+      "coin":1000
+    },
+    {
+      "id":183,
+      "name_category": "Batako",
+      "title":"183",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/183.webp",
+      "coin":1000
+    },
+    {
+      "id":184,
+      "name_category": "Batako",
+      "title":"184",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/184.webp",
+      "coin":1000
+    },
+    {
+      "id":185,
+      "name_category": "Batako",
+      "title":"185",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/185.webp",
+      "coin":1000
+    },
+    {
+      "id":186,
+      "name_category": "Batako",
+      "title":"186",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/186.webp",
+      "coin":1000
+    },
+    {
+      "id":187,
+      "name_category": "Batako",
+      "title":"187",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/187.webp",
+      "coin":1000
+    },
+    {
+      "id":188,
+      "name_category": "Batako",
+      "title":"188",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/188.webp",
+      "coin":1000
+    },
+    {
+      "id":189,
+      "name_category": "Batako",
+      "title":"189",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/189.webp",
+      "coin":1000
+    },
+    {
+      "id":190,
+      "name_category": "Batako",
+      "title":"190",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/190.webp",
+      "coin":1000
+    },
+    {
+      "id": 191,
+      "name_category": "Batako",
+      "title": "191",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/191.webp",
+      "coin":1000
+    },
+    {
+      "id":192,
+      "name_category": "Batako",
+      "title":"192",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/192.webp",
+      "coin":1000
+    },
+    {
+      "id":193,
+      "name_category": "Batako",
+      "title":"193",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/193.webp",
+      "coin":1000
+    },
+    {
+      "id":194,
+      "name_category": "Batako",
+      "title":"194",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/194.webp",
+      "coin":1000
+    },
+    {
+      "id":195,
+      "name_category": "Batako",
+      "title":"195",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/195.webp",
+      "coin":1000
+    },
+    {
+      "id":196,
+      "name_category": "Batako",
+      "title":"196",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/196.webp",
+      "coin":1000
+    },
+    {
+      "id":197,
+      "name_category": "Batako",
+      "title":"197",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/197.webp",
+      "coin":1000
+    },
+    {
+      "id":198,
+      "name_category": "Batako",
+      "title":"198",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/198.webp",
+      "coin":1000
+    },
+    {
+      "id":199,
+      "name_category": "Batako",
+      "title":"199",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/199.webp",
+      "coin":1000
+    },
+    {
+      "id":200,
+      "name_category": "Batako",
+      "title":"200",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/200.webp",
+      "coin":1000
+    },
+    {
+      "id": 201,
+      "name_category": "Batako",
+      "title": "201",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/201.webp",
+      "coin":1000
+    },
+    {
+      "id":202,
+      "name_category": "Batako",
+      "title":"202",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/202.webp",
+      "coin":1000
+    },
+    {
+      "id":203,
+      "name_category": "Batako",
+      "title":"203",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/203.webp",
+      "coin":1000
+    },
+    {
+      "id":204,
+      "name_category": "Batako",
+      "title":"204",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/204.webp",
+      "coin":1000
+    },
+    {
+      "id":205,
+      "name_category": "Batako",
+      "title":"205",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/205.webp",
+      "coin":1000
+    },
+    {
+      "id":206,
+      "name_category": "Batako",
+      "title":"206",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/206.webp",
+      "coin":1000
+    },
+    {
+      "id":207,
+      "name_category": "Batako",
+      "title":"207",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/207.webp",
+      "coin":1000
+    },
+    {
+      "id":208,
+      "name_category": "Batako",
+      "title":"208",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/208.webp",
+      "coin":1000
+    },
+    {
+      "id":209,
+      "name_category": "Batako",
+      "title":"209",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/209.webp",
+      "coin":1000
+    },
+    {
+      "id":210,
+      "name_category": "Batako",
+      "title":"210",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/210.webp",
+      "coin":1000
+    },
+    {
+      "id": 211,
+      "name_category": "Batako",
+      "title": "211",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/211.webp",
+      "coin":1000
+    },
+    {
+      "id":212,
+      "name_category": "Batako",
+      "title":"212",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/212.webp",
+      "coin":1000
+    },
+    {
+      "id":213,
+      "name_category": "Batako",
+      "title":"213",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/213.webp",
+      "coin":1000
+    },
+    {
+      "id":214,
+      "name_category": "Batako",
+      "title":"214",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/214.webp",
+      "coin":1000
+    },
+    {
+      "id":215,
+      "name_category": "Batako",
+      "title":"215",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/215.webp",
+      "coin":1000
+    },
+    {
+      "id":216,
+      "name_category": "Batako",
+      "title":"216",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/216.webp",
+      "coin":1000
+    },
+    {
+      "id":217,
+      "name_category": "Batako",
+      "title":"217",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/217.webp",
+      "coin":1000
+    },
+    {
+      "id":218,
+      "name_category": "Batako",
+      "title":"218",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/218.webp",
+      "coin":1000
+    },
+    {
+      "id":219,
+      "name_category": "Batako",
+      "title":"219",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/219.webp",
+      "coin":1000
+    },
+    {
+      "id":220,
+      "name_category": "Batako",
+      "title":"220",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/220.webp",
+      "coin":1000
+    },
+    {
+      "id": 221,
+      "name_category": "Batako",
+      "title": "221",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/221.webp",
+      "coin":1000
+    },
+    {
+      "id":222,
+      "name_category": "Batako",
+      "title":"222",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/222.webp",
+      "coin":1000
+    },
+    {
+      "id":223,
+      "name_category": "Batako",
+      "title":"223",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/223.webp",
+      "coin":1000
+    },
+    {
+      "id":224,
+      "name_category": "Batako",
+      "title":"224",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/224.webp",
+      "coin":1000
+    },
+    {
+      "id":225,
+      "name_category": "Batako",
+      "title":"225",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/225.webp",
+      "coin":1000
+    },
+    {
+      "id":226,
+      "name_category": "Batako",
+      "title":"226",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/226.webp",
+      "coin":1000
+    },
+    {
+      "id":227,
+      "name_category": "Batako",
+      "title":"227",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/227.webp",
+      "coin":1000
+    },
+    {
+      "id":228,
+      "name_category": "Batako",
+      "title":"228",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/228.webp",
+      "coin":1000
+    },
+    {
+      "id":229,
+      "name_category": "Batako",
+      "title":"229",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/229.webp",
+      "coin":1000
+    },
+    {
+      "id":230,
+      "name_category": "Batako",
+      "title":"230",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/230.webp",
+      "coin":1000
+    },
+    {
+      "id": 231,
+      "name_category": "Batako",
+      "title": "231",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/231.webp",
+      "coin":1000
+    },
+    {
+      "id":232,
+      "name_category": "Batako",
+      "title":"232",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/232.webp",
+      "coin":1000
+    },
+    {
+      "id":233,
+      "name_category": "Batako",
+      "title":"233",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/233.webp",
+      "coin":1000
+    },
+    {
+      "id":234,
+      "name_category": "Batako",
+      "title":"234",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/234.webp",
+      "coin":1000
+    },
+    {
+      "id":235,
+      "name_category": "Batako",
+      "title":"235",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/235.webp",
+      "coin":1000
+    },
+    {
+      "id":236,
+      "name_category": "Batako",
+      "title":"236",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/236.webp",
+      "coin":1000
+    },
+    {
+      "id":237,
+      "name_category": "Batako",
+      "title":"237",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/237.webp",
+      "coin":1000
+    },
+    {
+      "id":238,
+      "name_category": "Batako",
+      "title":"238",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/238.webp",
+      "coin":1000
+    },
+    {
+      "id":239,
+      "name_category": "Batako",
+      "title":"239",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/239.webp",
+      "coin":1000
+    },
+    {
+      "id":240,
+      "name_category": "Batako",
+      "title":"240",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/240.webp",
+      "coin":1000
+    },
+    {
+      "id": 241,
+      "name_category": "Batako",
+      "title": "241",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/241.webp",
+      "coin":1000
+    },
+    {
+      "id":242,
+      "name_category": "Batako",
+      "title":"242",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/242.webp",
+      "coin":1000
+    },
+    {
+      "id":243,
+      "name_category": "Batako",
+      "title":"243",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/243.webp",
+      "coin":1000
+    },
+    {
+      "id":244,
+      "name_category": "Batako",
+      "title":"244",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/244.webp",
+      "coin":1000
+    },
+    {
+      "id":245,
+      "name_category": "Batako",
+      "title":"245",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/245.webp",
+      "coin":1000
+    },
+    {
+      "id":246,
+      "name_category": "Batako",
+      "title":"246",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/246.webp",
+      "coin":1000
+    },
+    {
+      "id":247,
+      "name_category": "Batako",
+      "title":"247",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/247.webp",
+      "coin":1000
+    },
+    {
+      "id":248,
+      "name_category": "Batako",
+      "title":"248",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/248.webp",
+      "coin":1000
+    },
+    {
+      "id":249,
+      "name_category": "Batako",
+      "title":"249",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/249.webp",
+      "coin":1000
+    },
+    {
+      "id":250,
+      "name_category": "Batako",
+      "title":"250",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/250.webp",
+      "coin":1000
+    },
+    {
+      "id": 251,
+      "name_category": "Batako",
+      "title": "251",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/251.webp",
+      "coin":1000
+    },
+    {
+      "id":252,
+      "name_category": "Batako",
+      "title":"252",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/252.webp",
+      "coin":1000
+    },
+    {
+      "id":253,
+      "name_category": "Batako",
+      "title":"253",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/253.webp",
+      "coin":1000
+    },
+    {
+      "id":254,
+      "name_category": "Batako",
+      "title":"254",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/254.webp",
+      "coin":1000
+    },
+    {
+      "id":255,
+      "name_category": "Batako",
+      "title":"255",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/255.webp",
+      "coin":1000
+    },
+    {
+      "id":256,
+      "name_category": "Batako",
+      "title":"256",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/256.webp",
+      "coin":1000
+    },
+    {
+      "id":257,
+      "name_category": "Batako",
+      "title":"257",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/257.webp",
+      "coin":1000
+    },
+    {
+      "id":258,
+      "name_category": "Batako",
+      "title":"258",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/258.webp",
+      "coin":1000
+    },
+    {
+      "id":259,
+      "name_category": "Batako",
+      "title":"259",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/259.webp",
+      "coin":1000
+    },
+    {
+      "id":260,
+      "name_category": "Batako",
+      "title":"260",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/260.webp",
+      "coin":1000
+    },
+    {
+      "id": 261,
+      "name_category": "Batako",
+      "title": "261",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/261.webp",
+      "coin":1000
+    },
+    {
+      "id":262,
+      "name_category": "Batako",
+      "title":"262",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/262.webp",
+      "coin":1000
+    },
+    {
+      "id":263,
+      "name_category": "Batako",
+      "title":"263",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/263.webp",
+      "coin":1000
+    },
+    {
+      "id":264,
+      "name_category": "Batako",
+      "title":"264",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/264.webp",
+      "coin":1000
+    },
+    {
+      "id":265,
+      "name_category": "Batako",
+      "title":"265",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/265.webp",
+      "coin":1000
+    },
+    {
+      "id":266,
+      "name_category": "Batako",
+      "title":"266",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/266.webp",
+      "coin":1000
+    },
+	{
+      "id":267,
+      "name_category": "Batako",
+      "title":"267",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/267.webp",
+      "coin":1000
+    },
+    {
+      "id": 268,
+      "name_category": "Batako",
+      "title": "268",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/268.webp",
+      "coin":1000
+    },
+    {
+      "id":269,
+      "name_category": "Batako",
+      "title":"269",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/269.webp",
+      "coin":1000
+    },
+    {
+      "id":270,
+      "name_category": "Batako",
+      "title":"270",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/270.webp",
+      "coin":1000
+    },
+    {
+      "id":271,
+      "name_category": "Batako",
+      "title":"271",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/271.webp",
+      "coin":1000
+    },
+    {
+      "id":272,
+      "name_category": "Batako",
+      "title":"272",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/272.webp",
+      "coin":1000
+    },
+    {
+      "id":273,
+      "name_category": "Batako",
+      "title":"273",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/273.webp",
+      "coin":1000
+    },
+    {
+      "id":274,
+      "name_category": "Batako",
+      "title":"274",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/274.webp",
+      "coin":1000
+    },
+    {
+      "id":275,
+      "name_category": "Batako",
+      "title":"275",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/275.webp",
+      "coin":1000
+    },
+    {
+      "id":276,
+      "name_category": "Batako",
+      "title":"276",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/276.webp",
+      "coin":1000
+    },
+    {
+      "id": 277,
+      "name_category": "Batako",
+      "title": "277",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/277.webp",
+      "coin":1000
+    },
+    {
+      "id":278,
+      "name_category": "Batako",
+      "title":"278",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/278.webp",
+      "coin":1000
+    },
+    {
+      "id":279,
+      "name_category": "Batako",
+      "title":"279",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/279.webp",
+      "coin":1000
+    },
+    {
+      "id":280,
+      "name_category": "Batako",
+      "title":"280",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/280.webp",
+      "coin":1000
+    },
+    {
+      "id":281,
+      "name_category": "Batako",
+      "title":"281",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/281.webp",
+      "coin":1000
+    },
+    {
+      "id":282,
+      "name_category": "Batako",
+      "title":"282",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/282.webp",
+      "coin":1000
+    },
+    {
+      "id":283,
+      "name_category": "Batako",
+      "title":"283",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/283.webp",
+      "coin":1000
+    },
+    {
+      "id":284,
+      "name_category": "Batako",
+      "title":"284",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/284.webp",
+      "coin":1000
+    },
+    {
+      "id":285,
+      "name_category": "Batako",
+      "title":"285",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/285.webp",
+      "coin":1000
+    },
+    {
+      "id":286,
+      "name_category": "Batako",
+      "title":"286",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/286.webp",
+      "coin":1000
+    },
+    {
+      "id": 287,
+      "name_category": "Batako",
+      "title": "287",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/287.webp",
+      "coin":1000
+    },
+    {
+      "id":288,
+      "name_category": "Batako",
+      "title":"288",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/288.webp",
+      "coin":1000
+    },
+    {
+      "id":289,
+      "name_category": "Batako",
+      "title":"289",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/289.webp",
+      "coin":1000
+    },
+    {
+      "id":290,
+      "name_category": "Batako",
+      "title":"290",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/290.webp",
+      "coin":1000
+    },
+    {
+      "id":291,
+      "name_category": "Batako",
+      "title":"291",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/291.webp",
+      "coin":1000
+    },
+    {
+      "id":292,
+      "name_category": "Batako",
+      "title":"292",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/292.webp",
+      "coin":1000
+    },
+    {
+      "id":293,
+      "name_category": "Batako",
+      "title":"293",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/293.webp",
+      "coin":1000
+    },
+    {
+      "id":294,
+      "name_category": "Batako",
+      "title":"294",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/294.webp",
+      "coin":1000
+    },
+    {
+      "id":295,
+      "name_category": "Batako",
+      "title":"295",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/295.webp",
+      "coin":1000
+    },
+    {
+      "id":296,
+      "name_category": "Batako",
+      "title":"296",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/296.webp",
+      "coin":1000
+    },
+    {
+      "id": 297,
+      "name_category": "Batako",
+      "title": "297",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/297.webp",
+      "coin":1000
+    },
+    {
+      "id":298,
+      "name_category": "Batako",
+      "title":"298",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/298.webp",
+      "coin":1000
+    },
+    {
+      "id":299,
+      "name_category": "Batako",
+      "title":"299",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/299.webp",
+      "coin":1000
+    },
+    {
+      "id":300,
+      "name_category": "Batako",
+      "title":"300",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/300.webp",
+      "coin":1000
+    },
+    {
+      "id":301,
+      "name_category": "Batako",
+      "title":"301",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/301.webp",
+      "coin":1000
+    },
+    {
+      "id":302,
+      "name_category": "Batako",
+      "title":"302",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/302.webp",
+      "coin":1000
+    },
+    {
+      "id":303,
+      "name_category": "Batako",
+      "title":"303",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/303.webp",
+      "coin":1000
+    },
+    {
+      "id":304,
+      "name_category": "Batako",
+      "title":"304",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/304.webp",
+      "coin":1000
+    },
+    {
+      "id":305,
+      "name_category": "Batako",
+      "title":"305",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/305.webp",
+      "coin":1000
+    },
+    {
+      "id":306,
+      "name_category": "Batako",
+      "title":"306",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/306.webp",
+      "coin":1000
+    },
+    {
+      "id": 307,
+      "name_category": "Batako",
+      "title": "307",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/307.webp",
+      "coin":1000
+    },
+    {
+      "id":308,
+      "name_category": "Batako",
+      "title":"308",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/308.webp",
+      "coin":1000
+    },
+    {
+      "id":309,
+      "name_category": "Batako",
+      "title":"309",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/309.webp",
+      "coin":1000
+    },
+    {
+      "id":310,
+      "name_category": "Batako",
+      "title":"310",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/310.webp",
+      "coin":1000
+    },
+    {
+      "id":311,
+      "name_category": "Batako",
+      "title":"311",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/311.webp",
+      "coin":1000
+    },
+    {
+      "id":312,
+      "name_category": "Batako",
+      "title":"312",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/312.webp",
+      "coin":1000
+    },
+    {
+      "id":313,
+      "name_category": "Batako",
+      "title":"313",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/313.webp",
+      "coin":1000
+    },
+    {
+      "id":314,
+      "name_category": "Batako",
+      "title":"314",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/314.webp",
+      "coin":1000
+    },
+    {
+      "id":315,
+      "name_category": "Batako",
+      "title":"315",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/315.webp",
+      "coin":1000
+    },
+    {
+      "id":316,
+      "name_category": "Batako",
+      "title":"316",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/316.webp",
+      "coin":1000
+    },
+    {
+      "id": 317,
+      "name_category": "Batako",
+      "title": "317",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/317.webp",
+      "coin":1000
+    },
+    {
+      "id":318,
+      "name_category": "Batako",
+      "title":"318",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/318.webp",
+      "coin":1000
+    },
+    {
+      "id":319,
+      "name_category": "Batako",
+      "title":"319",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/319.webp",
+      "coin":1000
+    },
+    {
+      "id":320,
+      "name_category": "Batako",
+      "title":"320",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/320.webp",
+      "coin":1000
+    },
+    {
+      "id":321,
+      "name_category": "Batako",
+      "title":"321",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/321.webp",
+      "coin":1000
+    },
+    {
+      "id":322,
+      "name_category": "Batako",
+      "title":"322",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/322.webp",
+      "coin":1000
+    },
+    {
+      "id":323,
+      "name_category": "Batako",
+      "title":"323",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/323.webp",
+      "coin":1000
+    },
+    {
+      "id":324,
+      "name_category": "Batako",
+      "title":"324",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/324.webp",
+      "coin":1000
+    },
+    {
+      "id":325,
+      "name_category": "Batako",
+      "title":"325",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/325.webp",
+      "coin":1000
+    },
+    {
+      "id":326,
+      "name_category": "Batako",
+      "title":"326",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/326.webp",
+      "coin":1000
+    },
+    {
+      "id": 327,
+      "name_category": "Batako",
+      "title": "327",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/327.webp",
+      "coin":1000
+    },
+    {
+      "id":328,
+      "name_category": "Batako",
+      "title":"328",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/328.webp",
+      "coin":1000
+    },
+    {
+      "id":329,
+      "name_category": "Batako",
+      "title":"329",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/329.webp",
+      "coin":1000
+    },
+    {
+      "id":330,
+      "name_category": "Batako",
+      "title":"330",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/330.webp",
+      "coin":1000
+    },
+    {
+      "id":331,
+      "name_category": "Batako",
+      "title":"331",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/331.webp",
+      "coin":1000
+    },
+    {
+      "id":332,
+      "name_category": "Batako",
+      "title":"332",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/332.webp",
+      "coin":1000
+    },
+    {
+      "id":333,
+      "name_category": "Batako",
+      "title":"333",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/333.webp",
+      "coin":1000
+    },
+    {
+      "id":334,
+      "name_category": "Batako",
+      "title":"334",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/334.webp",
+      "coin":1000
+    },
+    {
+      "id":335,
+      "name_category": "Batako",
+      "title":"335",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/335.webp",
+      "coin":1000
+    },
+    {
+      "id":336,
+      "name_category": "Batako",
+      "title":"336",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/336.webp",
+      "coin":1000
+    },
+    {
+      "id": 337,
+      "name_category": "Batako",
+      "title": "337",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/337.webp",
+      "coin":1000
+    },
+    {
+      "id":338,
+      "name_category": "Batako",
+      "title":"338",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/338.webp",
+      "coin":1000
+    },
+    {
+      "id":339,
+      "name_category": "Batako",
+      "title":"339",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/339.webp",
+      "coin":1000
+    },
+    {
+      "id":340,
+      "name_category": "Batako",
+      "title":"340",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/340.webp",
+      "coin":1000
+    },
+    {
+      "id":341,
+      "name_category": "Batako",
+      "title":"341",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/341.webp",
+      "coin":1000
+    },
+    {
+      "id":342,
+      "name_category": "Batako",
+      "title":"342",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/342.webp",
+      "coin":1000
+    },
+    {
+      "id":343,
+      "name_category": "Batako",
+      "title":"343",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/343.webp",
+      "coin":1000
+    },
+    {
+      "id":344,
+      "name_category": "Batako",
+      "title":"344",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/344.webp",
+      "coin":1000
+    },
+    {
+      "id":345,
+      "name_category": "Batako",
+      "title":"345",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/345.webp",
+      "coin":1000
+    },
+    {
+      "id":346,
+      "name_category": "Batako",
+      "title":"346",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/346.webp",
+      "coin":1000
+    },
+    {
+      "id": 347,
+      "name_category": "Batako",
+      "title": "347",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/347.webp",
+      "coin":1000
+    },
+    {
+      "id":348,
+      "name_category": "Batako",
+      "title":"348",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/348.webp",
+      "coin":1000
+    },
+    {
+      "id":349,
+      "name_category": "Batako",
+      "title":"349",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/349.webp",
+      "coin":1000
+    },
+    {
+      "id":350,
+      "name_category": "Batako",
+      "title":"350",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/350.webp",
+      "coin":1000
+    },
+    {
+      "id":351,
+      "name_category": "Batako",
+      "title":"351",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/351.webp",
+      "coin":1000
+    },
+    {
+      "id":352,
+      "name_category": "Batako",
+      "title":"352",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/352.webp",
+      "coin":1000
+    },
+    {
+      "id":353,
+      "name_category": "Batako",
+      "title":"353",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/353.webp",
+      "coin":1000
+    },
+    {
+      "id":354,
+      "name_category": "Batako",
+      "title":"354",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/354.webp",
+      "coin":1000
+    },
+    {
+      "id":355,
+      "name_category": "Batako",
+      "title":"355",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/355.webp",
+      "coin":1000
+    },
+    {
+      "id":356,
+      "name_category": "Batako",
+      "title":"356",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/356.webp",
+      "coin":1000
+    },
+    {
+      "id": 357,
+      "name_category": "Batako",
+      "title": "357",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/357.webp",
+      "coin":1000
+    },
+    {
+      "id":358,
+      "name_category": "Batako",
+      "title":"358",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/358.webp",
+      "coin":1000
+    },
+    {
+      "id":359,
+      "name_category": "Batako",
+      "title":"359",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/359.webp",
+      "coin":1000
+    },
+    {
+      "id":360,
+      "name_category": "Batako",
+      "title":"360",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/360.webp",
+      "coin":1000
+    },
+    {
+      "id":361,
+      "name_category": "Batako",
+      "title":"361",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/361.webp",
+      "coin":1000
+    },
+    {
+      "id":362,
+      "name_category": "Batako",
+      "title":"362",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/362.webp",
+      "coin":1000
+    },
+    {
+      "id":363,
+      "name_category": "Batako",
+      "title":"363",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/363.webp",
+      "coin":1000
+    },
+    {
+      "id":364,
+      "name_category": "Batako",
+      "title":"364",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/364.webp",
+      "coin":1000
+    },
+    {
+      "id":365,
+      "name_category": "Batako",
+      "title":"365",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/365.webp",
+      "coin":1000
+    },
+    {
+      "id":366,
+      "name_category": "Batako",
+      "title":"366",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/366.webp",
+      "coin":1000
+    },
+    {
+      "id": 367,
+      "name_category": "Batako",
+      "title": "367",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/367.webp",
+      "coin":1000
+    },
+    {
+      "id":368,
+      "name_category": "Batako",
+      "title":"368",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/368.webp",
+      "coin":1000
+    },
+    {
+      "id":369,
+      "name_category": "Batako",
+      "title":"369",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/369.webp",
+      "coin":1000
+    },
+    {
+      "id":370,
+      "name_category": "Batako",
+      "title":"370",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/370.webp",
+      "coin":1000
+    },
+    {
+      "id":371,
+      "name_category": "Batako",
+      "title":"371",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/371.webp",
+      "coin":1000
+    },
+    {
+      "id":372,
+      "name_category": "Batako",
+      "title":"372",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/372.webp",
+      "coin":1000
+    },
+    {
+      "id":373,
+      "name_category": "Batako",
+      "title":"373",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/373.webp",
+      "coin":1000
+    },
+    {
+      "id":374,
+      "name_category": "Batako",
+      "title":"374",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/374.webp",
+      "coin":1000
+    },
+    {
+      "id":375,
+      "name_category": "Batako",
+      "title":"375",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/375.webp",
+      "coin":1000
+    },
+    {
+      "id":376,
+      "name_category": "Batako",
+      "title":"376",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/376.webp",
+      "coin":1000
+    },
+    {
+      "id": 377,
+      "name_category": "Batako",
+      "title": "377",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/377.webp",
+      "coin":1000
+    },
+    {
+      "id":378,
+      "name_category": "Batako",
+      "title":"378",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/378.webp",
+      "coin":1000
+    },
+    {
+      "id":379,
+      "name_category": "Batako",
+      "title":"379",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/379.webp",
+      "coin":1000
+    },
+    {
+      "id":380,
+      "name_category": "Batako",
+      "title":"380",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/380.webp",
+      "coin":1000
+    },
+    {
+      "id":381,
+      "name_category": "Batako",
+      "title":"381",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/381.webp",
+      "coin":1000
+    },
+    {
+      "id":382,
+      "name_category": "Batako",
+      "title":"382",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/382.webp",
+      "coin":1000
+    },
+    {
+      "id":383,
+      "name_category": "Batako",
+      "title":"383",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/383.webp",
+      "coin":1000
+    },
+    {
+      "id":384,
+      "name_category": "Batako",
+      "title":"384",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/384.webp",
+      "coin":1000
+    },
+    {
+      "id":385,
+      "name_category": "Batako",
+      "title":"385",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/385.webp",
+      "coin":1000
+    },
+    {
+      "id":386,
+      "name_category": "Batako",
+      "title":"386",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/386.webp",
+      "coin":1000
+    },
+    {
+      "id": 387,
+      "name_category": "Batako",
+      "title": "387",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/387.webp",
+      "coin":1000
+    },
+    {
+      "id":388,
+      "name_category": "Batako",
+      "title":"388",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/388.webp",
+      "coin":1000
+    },
+    {
+      "id":389,
+      "name_category": "Batako",
+      "title":"389",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/389.webp",
+      "coin":1000
+    },
+    {
+      "id":390,
+      "name_category": "Batako",
+      "title":"390",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/390.webp",
+      "coin":1000
+    },
+    {
+      "id":391,
+      "name_category": "Batako",
+      "title":"391",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/391.webp",
+      "coin":1000
+    },
+    {
+      "id":392,
+      "name_category": "Batako",
+      "title":"392",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/392.webp",
+      "coin":1000
+    },
+    {
+      "id":393,
+      "name_category": "Batako",
+      "title":"393",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/393.webp",
+      "coin":1000
+    },
+    {
+      "id":394,
+      "name_category": "Batako",
+      "title":"394",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/394.webp",
+      "coin":1000
+    },
+    {
+      "id":395,
+      "name_category": "Batako",
+      "title":"395",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/395.webp",
+      "coin":1000
+    },
+    {
+      "id":396,
+      "name_category": "Batako",
+      "title":"396",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/396.webp",
+      "coin":1000
+    },
+    {
+      "id": 397,
+      "name_category": "Batako",
+      "title": "397",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/397.webp",
+      "coin":1000
+    },
+    {
+      "id":398,
+      "name_category": "Batako",
+      "title":"398",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/398.webp",
+      "coin":1000
+    },
+    {
+      "id":399,
+      "name_category": "Batako",
+      "title":"399",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/399.webp",
+      "coin":1000
+    },
+    {
+      "id":400,
+      "name_category": "Batako",
+      "title":"400",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/400.webp",
+      "coin":1000
+    },
+    {
+      "id":401,
+      "name_category": "Batako",
+      "title":"401",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/401.webp",
+      "coin":1000
+    },
+    {
+      "id":402,
+      "name_category": "Batako",
+      "title":"402",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/402.webp",
+      "coin":1000
+    },
+    {
+      "id":403,
+      "name_category": "Batako",
+      "title":"403",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/403.webp",
+      "coin":1000
+    },
+    {
+      "id":404,
+      "name_category": "Batako",
+      "title":"404",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/404.webp",
+      "coin":1000
+    },
+    {
+      "id":405,
+      "name_category": "Batako",
+      "title":"405",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/405.webp",
+      "coin":1000
+    },
+    {
+      "id":406,
+      "name_category": "Batako",
+      "title":"406",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/406.webp",
+      "coin":1000
+    },
+    {
+      "id": 407,
+      "name_category": "Batako",
+      "title": "407",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/407.webp",
+      "coin":1000
+    },
+    {
+      "id":408,
+      "name_category": "Batako",
+      "title":"408",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/408.webp",
+      "coin":1000
+    },
+    {
+      "id":409,
+      "name_category": "Batako",
+      "title":"409",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/409.webp",
+      "coin":1000
+    },
+    {
+      "id":410,
+      "name_category": "Batako",
+      "title":"410",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/410.webp",
+      "coin":1000
+    },
+    {
+      "id":411,
+      "name_category": "Batako",
+      "title":"411",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/411.webp",
+      "coin":1000
+    },
+    {
+      "id":412,
+      "name_category": "Batako",
+      "title":"412",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/412.webp",
+      "coin":1000
+    },
+    {
+      "id":413,
+      "name_category": "Batako",
+      "title":"413",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/413.webp",
+      "coin":1000
+    },
+    {
+      "id":414,
+      "name_category": "Batako",
+      "title":"414",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/414.webp",
+      "coin":1000
+    },
+    {
+      "id":415,
+      "name_category": "Batako",
+      "title":"415",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/415.webp",
+      "coin":1000
+    },
+    {
+      "id":416,
+      "name_category": "Batako",
+      "title":"416",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/416.webp",
+      "coin":1000
+    },
+    {
+      "id": 417,
+      "name_category": "Batako",
+      "title": "417",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/417.webp",
+      "coin":1000
+    },
+    {
+      "id":418,
+      "name_category": "Batako",
+      "title":"418",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/418.webp",
+      "coin":1000
+    },
+    {
+      "id":419,
+      "name_category": "Batako",
+      "title":"419",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/419.webp",
+      "coin":1000
+    },
+    {
+      "id":420,
+      "name_category": "Batako",
+      "title":"420",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/420.webp",
+      "coin":1000
+    },
+    {
+      "id":421,
+      "name_category": "Batako",
+      "title":"421",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/421.webp",
+      "coin":1000
+    },
+    {
+      "id":422,
+      "name_category": "Batako",
+      "title":"422",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/422.webp",
+      "coin":1000
+    },
+    {
+      "id":423,
+      "name_category": "Batako",
+      "title":"423",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/423.webp",
+      "coin":1000
+    },
+    {
+      "id":424,
+      "name_category": "Batako",
+      "title":"424",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/424.webp",
+      "coin":1000
+    },
+    {
+      "id":425,
+      "name_category": "Batako",
+      "title":"425",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/425.webp",
+      "coin":1000
+    },
+    {
+      "id":426,
+      "name_category": "Batako",
+      "title":"426",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/426.webp",
+      "coin":1000
+    },
+    {
+      "id": 427,
+      "name_category": "Batako",
+      "title": "427",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/427.webp",
+      "coin":1000
+    },
+    {
+      "id":428,
+      "name_category": "Batako",
+      "title":"428",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/428.webp",
+      "coin":1000
+    },
+    {
+      "id":429,
+      "name_category": "Batako",
+      "title":"429",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/429.webp",
+      "coin":1000
+    },
+    {
+      "id":430,
+      "name_category": "Batako",
+      "title":"430",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/430.webp",
+      "coin":1000
+    },
+    {
+      "id":431,
+      "name_category": "Batako",
+      "title":"431",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/431.webp",
+      "coin":1000
+    },
+    {
+      "id":432,
+      "name_category": "Batako",
+      "title":"432",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/432.webp",
+      "coin":1000
+    },
+    {
+      "id":433,
+      "name_category": "Batako",
+      "title":"433",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/433.webp",
+      "coin":1000
+    },
+    {
+      "id":434,
+      "name_category": "Batako",
+      "title":"434",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/434.webp",
+      "coin":1000
+    },
+    {
+      "id":435,
+      "name_category": "Batako",
+      "title":"435",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/435.webp",
+      "coin":1000
+    },
+    {
+      "id":436,
+      "name_category": "Batako",
+      "title":"436",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/436.webp",
+      "coin":1000
+    },
+    {
+      "id": 437,
+      "name_category": "Batako",
+      "title": "437",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/437.webp",
+      "coin":1000
+    },
+    {
+      "id":438,
+      "name_category": "Batako",
+      "title":"438",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/438.webp",
+      "coin":1000
+    },
+    {
+      "id":439,
+      "name_category": "Batako",
+      "title":"439",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/439.webp",
+      "coin":1000
+    },
+    {
+      "id":440,
+      "name_category": "Batako",
+      "title":"440",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/440.webp",
+      "coin":1000
+    },
+    {
+      "id":441,
+      "name_category": "Batako",
+      "title":"441",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/441.webp",
+      "coin":1000
+    },
+    {
+      "id":442,
+      "name_category": "Batako",
+      "title":"442",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/442.webp",
+      "coin":1000
+    },
+    {
+      "id":443,
+      "name_category": "Batako",
+      "title":"443",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/443.webp",
+      "coin":1000
+    },
+    {
+      "id":444,
+      "name_category": "Batako",
+      "title":"444",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/444.webp",
+      "coin":1000
+    },
+    {
+      "id":445,
+      "name_category": "Batako",
+      "title":"445",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/445.webp",
+      "coin":1000
+    },
+    {
+      "id":446,
+      "name_category": "Batako",
+      "title":"446",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/446.webp",
+      "coin":1000
+    },
+    {
+      "id": 447,
+      "name_category": "Batako",
+      "title": "447",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/447.webp",
+      "coin":1000
+    },
+    {
+      "id":448,
+      "name_category": "Batako",
+      "title":"448",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/448.webp",
+      "coin":1000
+    },
+    {
+      "id":449,
+      "name_category": "Batako",
+      "title":"449",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/449.webp",
+      "coin":1000
+    },
+    {
+      "id":450,
+      "name_category": "Batako",
+      "title":"450",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/450.webp",
+      "coin":1000
+    },
+    {
+      "id":451,
+      "name_category": "Batako",
+      "title":"451",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/451.webp",
+      "coin":1000
+    },
+    {
+      "id":452,
+      "name_category": "Batako",
+      "title":"452",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/452.webp",
+      "coin":1000
+    },
+    {
+      "id":453,
+      "name_category": "Batako",
+      "title":"453",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/453.webp",
+      "coin":1000
+    },
+    {
+      "id":454,
+      "name_category": "Batako",
+      "title":"454",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/454.webp",
+      "coin":1000
+    },
+    {
+      "id":455,
+      "name_category": "Batako",
+      "title":"455",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/455.webp",
+      "coin":1000
+    },
+    {
+      "id":456,
+      "name_category": "Batako",
+      "title":"456",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/456.webp",
+      "coin":1000
+    },
+    {
+      "id": 457,
+      "name_category": "Batako",
+      "title": "457",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/457.webp",
+      "coin":1000
+    },
+    {
+      "id":458,
+      "name_category": "Batako",
+      "title":"458",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/458.webp",
+      "coin":1000
+    },
+    {
+      "id":459,
+      "name_category": "Batako",
+      "title":"459",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/459.webp",
+      "coin":1000
+    },
+    {
+      "id":460,
+      "name_category": "Batako",
+      "title":"460",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/460.webp",
+      "coin":1000
+    },
+    {
+      "id":461,
+      "name_category": "Batako",
+      "title":"461",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/461.webp",
+      "coin":1000
+    },
+    {
+      "id":462,
+      "name_category": "Batako",
+      "title":"462",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/462.webp",
+      "coin":1000
+    },
+    {
+      "id":463,
+      "name_category": "Batako",
+      "title":"463",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/463.webp",
+      "coin":1000
+    },
+    {
+      "id":464,
+      "name_category": "Batako",
+      "title":"464",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/464.webp",
+      "coin":1000
+    },
+    {
+      "id":465,
+      "name_category": "Batako",
+      "title":"465",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/465.webp",
+      "coin":1000
+    },
+    {
+      "id":466,
+      "name_category": "Batako",
+      "title":"466",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/466.webp",
+      "coin":1000
+    },
+    {
+      "id": 467,
+      "name_category": "Batako",
+      "title": "467",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/467.webp",
+      "coin":1000
+    },
+    {
+      "id":468,
+      "name_category": "Batako",
+      "title":"468",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/468.webp",
+      "coin":1000
+    },
+    {
+      "id":469,
+      "name_category": "Batako",
+      "title":"469",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/469.webp",
+      "coin":1000
+    },
+    {
+      "id":470,
+      "name_category": "Batako",
+      "title":"470",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/470.webp",
+      "coin":1000
+    },
+    {
+      "id":471,
+      "name_category": "Batako",
+      "title":"471",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/471.webp",
+      "coin":1000
+    },
+    {
+      "id":472,
+      "name_category": "Batako",
+      "title":"472",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/472.webp",
+      "coin":1000
+    },
+    {
+      "id":473,
+      "name_category": "Batako",
+      "title":"473",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/473.webp",
+      "coin":1000
+    },
+    {
+      "id":474,
+      "name_category": "Batako",
+      "title":"474",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/474.webp",
+      "coin":1000
+    },
+    {
+      "id":475,
+      "name_category": "Batako",
+      "title":"475",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/475.webp",
+      "coin":1000
+    },
+    {
+      "id":476,
+      "name_category": "Batako",
+      "title":"476",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/476.webp",
+      "coin":1000
+    },
+    {
+      "id": 477,
+      "name_category": "Batako",
+      "title": "477",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/477.webp",
+      "coin":1000
+    },
+    {
+      "id":478,
+      "name_category": "Batako",
+      "title":"478",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/478.webp",
+      "coin":1000
+    },
+    {
+      "id":479,
+      "name_category": "Batako",
+      "title":"479",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/479.webp",
+      "coin":1000
+    },
+    {
+      "id":480,
+      "name_category": "Batako",
+      "title":"480",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/480.webp",
+      "coin":1000
+    },
+    {
+      "id":481,
+      "name_category": "Batako",
+      "title":"481",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/481.webp",
+      "coin":1000
+    },
+    {
+      "id":482,
+      "name_category": "Batako",
+      "title":"482",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/482.webp",
+      "coin":1000
+    },
+    {
+      "id":483,
+      "name_category": "Batako",
+      "title":"483",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/483.webp",
+      "coin":1000
+    },
+    {
+      "id":484,
+      "name_category": "Batako",
+      "title":"484",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/484.webp",
+      "coin":1000
+    },
+    {
+      "id":485,
+      "name_category": "Batako",
+      "title":"485",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/485.webp",
+      "coin":1000
+    },
+    {
+      "id":486,
+      "name_category": "Batako",
+      "title":"486",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/486.webp",
+      "coin":1000
+    },
+    {
+      "id": 487,
+      "name_category": "Batako",
+      "title": "487",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/487.webp",
+      "coin":1000
+    },
+    {
+      "id":488,
+      "name_category": "Batako",
+      "title":"488",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/488.webp",
+      "coin":1000
+    },
+    {
+      "id":489,
+      "name_category": "Batako",
+      "title":"489",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/489.webp",
+      "coin":1000
+    },
+    {
+      "id":490,
+      "name_category": "Batako",
+      "title":"490",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/490.webp",
+      "coin":1000
+    },
+    {
+      "id":491,
+      "name_category": "Batako",
+      "title":"491",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/491.webp",
+      "coin":1000
+    },
+    {
+      "id":492,
+      "name_category": "Batako",
+      "title":"492",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/492.webp",
+      "coin":1000
+    },
+    {
+      "id":493,
+      "name_category": "Batako",
+      "title":"493",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/493.webp",
+      "coin":1000
+    },
+    {
+      "id":494,
+      "name_category": "Batako",
+      "title":"494",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/494.webp",
+      "coin":1000
+    },
+    {
+      "id":495,
+      "name_category": "Batako",
+      "title":"495",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/495.webp",
+      "coin":1000
+    },
+    {
+      "id":496,
+      "name_category": "Batako",
+      "title":"496",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/496.webp",
+      "coin":1000
+    },
+    {
+      "id": 497,
+      "name_category": "Batako",
+      "title": "497",
+      "image": "https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/497.webp",
+      "coin":1000
+    },
+    {
+      "id":498,
+      "name_category": "Batako",
+      "title":"498",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/498.webp",
+      "coin":1000
+    },
+    {
+      "id":499,
+      "name_category": "Batako",
+      "title":"499",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/499.webp",
+      "coin":1000
+    },
+    {
+      "id":500,
+      "name_category": "Batako",
+      "title":"500",
+      "image":"https://cdn.statically.io/gh/andidewi/Outfits-Ideas-Gacha-Life/main/500.webp",
+      "coin":1000
+    }
+  ]
+}
